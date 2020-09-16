@@ -1,4 +1,4 @@
-# ImageRecognitionBot
+# Image Recognition Bot
 Image recognition bot using Python, Clarifai, Twilio
 
 To run:
