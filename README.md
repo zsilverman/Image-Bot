@@ -1,7 +1,10 @@
 # Image Recognition Bot
-Image recognition bot using Python, Clarifai, Twilio
+Image recognition bot using Clarifai, Twilio.
 
-To run:
+<img src="https://i.ibb.co/LxJ1bKJ/IMG-7750.png" height="500">
+<img src="https://i.ibb.co/BqDtcBm/IMG-7749.png" height="500">
+
+How to run:
 ``` python
 python app.py
 ngrok http 5000
